@@ -50,7 +50,7 @@ public class Main
                             balance-=takeamount;
 
                         }
-                        break;
+break;
                     case 4:
                         System.out.println("welcome to Harish Mithran bank");
                         System.out.println("Available balance is"+" "+balance);
@@ -62,8 +62,8 @@ public class Main
                         System.out.println("press the number below 5");
                         break;
 
-                }
-                if(opt==5)
+}
+if(opt==5)
                 {
                     System.out.println("Thankyou");
                     break;
@@ -74,7 +74,7 @@ public class Main
         }
         else{
             System.out.println("Wrong Pin number");
-        }
+}
 
-    }
+}
 }
